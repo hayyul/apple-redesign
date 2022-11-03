@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <div className="">
       <Head>
-        <title>Apple </title>
+        <title>Apple Redesign </title>
         <link rel="icon" href="/favicon.ico" />
       </Head>     
       <Header /> 
